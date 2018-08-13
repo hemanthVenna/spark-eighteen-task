@@ -16,7 +16,7 @@
   color: white;
 }
 .coreContentWrap{
-  background: #ece89052;
+  background: #ece8902b;
   padding: 25px;
   border-radius: 6px;
 }
@@ -39,7 +39,6 @@ label{
   width:600px;
   display: flex;
   flex-direction: row;
-  margin: 25px;
 }
 .queWrapButton{
   display: flex;
@@ -57,7 +56,7 @@ button{
 .next1{
   display: flex;
   flex-direction: row-reverse;
-  margin-right: 150px;
+  margin-right: 15px;
 }
 .validationStyle{
   color:red;
