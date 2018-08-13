@@ -1,0 +1,74 @@
+.App {
+  width: 800px;
+  margin: auto;
+  padding-top: 40px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+.coreContentWrap{
+  background: #ece89052;
+  padding: 25px;
+  border-radius: 6px;
+}
+.radioCustom {
+  width: 30px;
+}
+.spaceWrap{
+  margin-right: 50px;
+}
+input,select{
+  width:260px;
+  padding: 6px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+label{
+  font-size: 12px;
+}
+.queWrap{
+  width:600px;
+  display: flex;
+  flex-direction: row;
+  margin: 25px;
+}
+.queWrapButton{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+button{
+  font-size: 16px;
+  background: blue;
+  color: #14ccad;
+  border:none;
+  padding:6px 20px;
+  margin-top: 15px;
+}
+.next1{
+  display: flex;
+  flex-direction: row-reverse;
+  margin-right: 150px;
+}
+.validationStyle{
+  color:red;
+  font-size: 12px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
