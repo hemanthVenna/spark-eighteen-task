@@ -335,7 +335,7 @@ class App extends Component {
               </div>              
             </div>
             <p className="validationStyle">{this.state.screenThreeValidation}</p>
-            <div className='queWrap'>
+            <div className='queWrapButton'>
               <button onClick={this.handleBack2}>Back</button>
               <button onClick={this.handleNext3}>NEXT</button>
               </div>
